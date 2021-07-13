@@ -8,7 +8,7 @@ Each class represents square of certain color range.
 Extract RGB values of the color and apply ML classifier
 
 <div align="center">
-    <img src="dataset_sample.jpg" width="160" >
+    <img src="dataset_sample.jpg" width="320" >
 </div>
 
 ## Methods
