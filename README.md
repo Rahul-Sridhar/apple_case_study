@@ -7,6 +7,10 @@ Classify Images into three classes. Image contain one square of varying size and
 Each class represents square of certain color range. 
 Extract RGB values of the color and apply ML classifier
 
+<div align="center">
+    <img src="dataset_sample.jpg" width="160" >
+</div>
+
 ## Methods
 
 ### Approach 1 - ML Image Classifier
