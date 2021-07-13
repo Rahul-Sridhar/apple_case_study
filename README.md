@@ -26,6 +26,8 @@ Best Accuracy: 82%
 
 Conclusion: RGB values might not be powerful features. Use SIFT + SVM on the input image. Even better use a DL model
 
+Script: ml_image_classifier.ipynb
+
 ### Approach 2 - SIFT + SVM
 Method:
 * SIFT Feature Descriptors
@@ -35,10 +37,14 @@ Method:
 
 Best Accuracy: 37.36%
 
+Script: sift_svm.py
+
 ### Approach 3 - DL Image Classifier
 Method: Train custom DL model on the dataset
 
 Best Accuracy: 35%
+
+Script: dl_image_classifier.ipynb
 
 ## Future Works
 * Fix the DL model
